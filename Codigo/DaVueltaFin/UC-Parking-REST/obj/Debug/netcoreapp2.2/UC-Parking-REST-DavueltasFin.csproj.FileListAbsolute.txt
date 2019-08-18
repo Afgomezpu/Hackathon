@@ -1,0 +1,6 @@
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST-DavueltasFin.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST-DavueltasFin.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST-DavueltasFin.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST-DavueltasFin.AssemblyInfo.cs
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST-DavueltasFin.RazorAssemblyInfo.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-REST\obj\Debug\netcoreapp2.2\UC-Parking-REST-DavueltasFin.RazorAssemblyInfo.cs

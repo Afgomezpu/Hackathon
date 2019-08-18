@@ -1,0 +1,14 @@
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.AssemblyInfo.cs
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.deps.json
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.dll
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.pdb
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\DaVueltasFin-Domain-Contracts.dll
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\DaVueltasFin-Domain-Contracts.pdb
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.csproj.CopyComplete
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.dll
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Domain-Implementation\obj\Debug\netcoreapp2.2\DaVueltasFin-Domain-Implementation.pdb

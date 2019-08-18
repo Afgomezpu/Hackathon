@@ -7521,7 +7521,6 @@
       "path": "runtime.native.system.net.http/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -7548,7 +7547,6 @@
       "path": "runtime.native.system.security.cryptography.openssl/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/netstandard1.0/_._",
@@ -12130,40 +12128,39 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\sebastian\\.nuget\\packages\\": {},
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\sebastian\\Documents\\2019\\software\\hakaton\\Hackathon\\Codigo\\UC-Parking-REST\\UC-Parking-REST.csproj",
-      "projectName": "UC-Parking-REST",
-      "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\hakaton\\Hackathon\\Codigo\\UC-Parking-REST\\UC-Parking-REST.csproj",
-      "packagesPath": "C:\\Users\\sebastian\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\hakaton\\Hackathon\\Codigo\\UC-Parking-REST\\obj\\",
+      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\GitHub\\Hackathon\\Codigo\\UC-Parking-REST\\UC-Parking-REST-DavueltasControl.csproj",
+      "projectName": "UC-Parking-REST-DavueltasControl",
+      "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Hackathon\\Codigo\\UC-Parking-REST\\UC-Parking-REST-DavueltasControl.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Hackathon\\Codigo\\UC-Parking-REST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\sebastian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "D:\\Users\\sebastian\\Documents\\2019\\software\\hakaton\\Hackathon\\Codigo\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
-              "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\hakaton\\Hackathon\\Codigo\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
+            "C:\\Users\\Daniel\\Documents\\GitHub\\Hackathon\\Codigo\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj": {
+              "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Hackathon\\Codigo\\UC-Parking-Domain-Contracts\\UC-Parking-Domain-Contracts.csproj"
             },
-            "D:\\Users\\sebastian\\Documents\\2019\\software\\hakaton\\Hackathon\\Codigo\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
-              "projectPath": "D:\\Users\\sebastian\\Documents\\2019\\software\\hakaton\\Hackathon\\Codigo\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj"
+            "C:\\Users\\Daniel\\Documents\\GitHub\\Hackathon\\Codigo\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj": {
+              "projectPath": "C:\\Users\\Daniel\\Documents\\GitHub\\Hackathon\\Codigo\\UC-Parking-Domain-Implementation\\UC-Parking-Domain-Implementation.csproj"
             }
           }
         }

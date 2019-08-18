@@ -1,0 +1,8 @@
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\Contracts.deps.json
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\bin\Debug\netcoreapp2.2\Contracts.pdb
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\Contracts.AssemblyInfo.cs
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\Contracts.dll
+C:\Users\Daniel\Documents\GitHub\Hackathon\Codigo\DaVueltaFin\UC-Parking-Persistence-Contracts\obj\Debug\netcoreapp2.2\Contracts.pdb
